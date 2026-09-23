@@ -67,6 +67,10 @@ If a job link cannot be checked, that set of jobs is not sent. If a résumé fac
 
 If Gmail gives no clear answer after a send, the skill stops. Check Sent mail before any retry. If your computer misses a run, it will not send a late email without your approval.
 
+## About me
+
+I'm Ant Mancini. This grew out of the job searches my wife and I were doing for ourselves. We each use a daily version of it. I put the reusable parts here so you can spend less time sorting job posts and more time deciding which ones are worth your effort. You can learn more about me at [antmancini.com](https://antmancini.com).
+
 ## If you want to help
 
 Open an issue with a **made-up example**, never a real résumé, token, email, job-search history, or receipt. The reusable code is MIT licensed; see [LICENSE](LICENSE). Tests use synthetic data. The [skill entry point](skills/job-leads-pipeline/SKILL.md) explains how agents should use this package.
