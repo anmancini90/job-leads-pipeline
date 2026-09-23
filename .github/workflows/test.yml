@@ -24,4 +24,3 @@ jobs:
         run: python -m unittest discover -s skills/job-leads-pipeline/tests -p 'test_*.py'
       - name: Validate Claude Code package
         run: npm exec --yes --package=@anthropic-ai/claude-code -- claude plugin validate .
-
