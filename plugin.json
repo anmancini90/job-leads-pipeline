@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "job-leads-pipeline",
+  "version": "0.1.0",
+  "description": "A private, guided job search with verified leads and source-checked resume attachments.",
+  "author": {
+    "name": "Job Leads Pipeline contributors"
+  },
+  "repository": "https://github.com/anmancini90/job-leads-pipeline",
+  "license": "MIT",
+  "keywords": ["job-search", "resumes", "skills"]
+}

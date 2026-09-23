@@ -1,0 +1,17 @@
+{
+  "name": "job-leads-tools",
+  "description": "A guided job-search skill for private daily leads and checked resumes.",
+  "owner": {
+    "name": "Job Leads Pipeline contributors"
+  },
+  "plugins": [
+    {
+      "name": "job-leads-pipeline",
+      "source": {
+        "source": "github",
+        "repo": "anmancini90/job-leads-pipeline"
+      },
+      "description": "A guided, private job search with verified leads and checked resume PDFs."
+    }
+  ]
+}

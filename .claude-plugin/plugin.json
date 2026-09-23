@@ -1,0 +1,8 @@
+{
+  "name": "job-leads-pipeline",
+  "description": "Find verified job leads and prepare checked resume attachments for a candidate-approved daily email.",
+  "author": {
+    "name": "Job Leads Pipeline contributors"
+  },
+  "license": "MIT"
+}

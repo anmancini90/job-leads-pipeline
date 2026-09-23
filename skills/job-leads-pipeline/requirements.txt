@@ -1,0 +1,9 @@
+# Install these into a private virtual environment, never into the Git checkout.
+reportlab>=4.2,<5
+pypdf>=5,<7
+pypdfium2>=4.30,<6
+google-api-python-client>=2,<3
+google-auth-oauthlib>=1.2,<2
+google-auth-httplib2>=0.2,<1
+keyring>=25,<27
+tzdata>=2025.1

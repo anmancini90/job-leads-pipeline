@@ -1,0 +1,6 @@
+interface:
+  display_name: "Job Leads Pipeline"
+  short_description: "Find checked job leads and resume matches"
+  default_prompt: "Use $job-leads-pipeline to start my private job-search onboarding and keep email delivery paused until I approve it."
+policy:
+  allow_implicit_invocation: true
