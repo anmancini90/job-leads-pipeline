@@ -8,8 +8,8 @@
     {
       "name": "job-leads-pipeline",
       "source": {
-        "source": "github",
-        "repo": "anmancini90/job-leads-pipeline"
+        "source": "url",
+        "url": "https://github.com/anmancini90/job-leads-pipeline.git"
       },
       "description": "A guided, private job search with verified leads and checked resume PDFs."
     }
